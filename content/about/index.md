@@ -2,6 +2,14 @@
 title: About
 date: '2017-08-06'
 ---
+Hello World! My name is Akshay Kanthi. 
+
+I currently live in Bangalore, India. Welcome! 
+
+I plan to document some of my ideas
+
+
+
 Hello, my name is Song Wang.
 
 I am a full-stack software engineer at [TuSimple](http://www.tusimple.com/), living in ~~Beijing~~, ~~Chengdu~~, ~~Yokohama~~, ~~New York~~, San Diego.
